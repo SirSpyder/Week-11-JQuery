@@ -1,0 +1,11 @@
+#grid{
+    max-width: 350px;
+}
+
+
+.box{
+    min-height: 120px;
+}
+#alert--container{
+    min-height: 80px;
+}
